@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">Development Tools</h3>
+<h3 align="left">Languages</h3>
 
 ###
 
